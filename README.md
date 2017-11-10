@@ -6,10 +6,10 @@ As an example, to use Bootstrap 4 this is what you need to do:
 
 First install Bootstrap from npm:
 
-npm install jquery --save
+```npm install jquery --save
 npm install popper.js --save
 npm install bootstrap@next --save
-Then add the needed script files to apps[0].scripts:
+Then add the needed script files to apps[0].scripts:```
 
 "scripts": [
   "../node_modules/jquery/dist/jquery.slim.js",
