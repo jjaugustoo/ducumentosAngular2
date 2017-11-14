@@ -10,6 +10,7 @@ First install Bootstrap from npm:
 npm install popper.js --save
 npm install bootstrap@next --save
 npm install jquery --save
+npm install popper.js --save
 Then add the needed script files to apps[0].scripts:```
 
 "scripts": [
